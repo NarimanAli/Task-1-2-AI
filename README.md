@@ -28,13 +28,13 @@ we should plug in the SD card , Then we start the XUbuntu installation process
 
 B01
 
-There is an important point before installation. We press a file in the SD card called extlinux.conf and open it in Terminal  right 
+There is an important point before installation. We press a file in the SD card called extlinux.conf and open it in Terminal and enter the command  
 
-sudo vim extlinux.conf
+`sudo vim extlinux.conf`
 
 AND
 
-boot/tegra210-p3448-0000-p3449-0000-b00.dtb
+`boot/tegra210-p3448-0000-p3449-0000-b00.dtb`
 
 save file
 
